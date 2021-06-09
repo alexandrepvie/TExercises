@@ -1,0 +1,6 @@
+começando com:
+Unix
+
+Bash
+
+Git
